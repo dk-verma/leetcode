@@ -1,2 +1,3 @@
 # leetcode
-Leetcode DS-Algo coding problem solution
+
+you can find solution for some important DS-Algo problems
